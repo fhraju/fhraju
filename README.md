@@ -1,8 +1,8 @@
 - Hi, I’m Fardus Hasan Raju
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Machine Learning.
+- 📫 How to reach me linkedin: https://www.linkedin.com/in/fardushasanraju/
 
 <!---
 fhraju/fhraju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
