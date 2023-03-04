@@ -1,6 +1,6 @@
 - Hi, I’m Fardus Hasan Raju
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently a Laravel Full Stack Developer.
+- 👀 I’m interested in Trading and Machine Learning.
+- 🌱 I’m currently a Python and Metatrader Developer.
 - 💞️ I’m looking to collaborate on Machine Learning.
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/fardushasanraju/
 
