@@ -1,7 +1,7 @@
 - Hi, I’m Fardus Hasan Raju
 - 👀 I’m interested in Trading and Machine Learning.
 - 🌱 I’m currently MQL4 Developer and Semi-Automated Trader.
-- 💞️ I’m looking to collaborate on Machine Learning.
+- 💞️ I’m looking to collaborate on MQL Developing and Machine Learning.
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/fardushasanraju/
 
 <!---
